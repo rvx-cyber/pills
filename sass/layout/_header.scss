@@ -46,19 +46,12 @@
       height: 100%;
       margin-right: 2rem;
       display: flex;
-      justify-content: center;
+      //justify-content: center;
       align-items: center;
-
-      //border: 1px springgreen solid;
-
+      width: 30%;
 
 
-      @media (max-width:990px) {
-        width: 22%;
-        img{
-          width: 100%;
-        }
-      }
+
 
 
       @media (max-width: 760px) {
